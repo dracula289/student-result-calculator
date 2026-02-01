@@ -1,4 +1,3 @@
-# student-result-calculator
 # Student Result Calculator
 
 A simple web-based mini project to calculate student total marks, percentage, and result.
