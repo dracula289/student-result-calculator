@@ -11,7 +11,7 @@ A simple web-based mini project to calculate student total marks, percentage, an
 - Enter marks for multiple subjects
 - Calculates total marks
 - Calculates percentage
-- Displays pass or fail result
+- Displays pass or fail result but in sample img pass or fail not attached
 
 ## How to Run
 1. Download or clone the repository
